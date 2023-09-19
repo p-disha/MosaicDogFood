@@ -8,8 +8,7 @@ dog_shelter_food_calculator/
 ├── calculate_dog_food_order.py
 ├── test_calculate_dog_food_order.py
 ├── QUESTIONS.md
-├── README.md
-└── LICENSE
+└── README.md and LICENSE
 ```
 
 # Dog Food Calculator
